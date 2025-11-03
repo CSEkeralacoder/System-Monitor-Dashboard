@@ -1,0 +1,279 @@
+2025-11-02 12:57:19.663988 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:57:19.730714 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:57:19.776868 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:57:19.833291 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:57:19.884818 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:57:24.947446 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:57:25.018806 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:57:25.075092 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:57:25.124576 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:57:25.172455 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:57:30.237824 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:57:30.291528 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:57:30.335929 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:57:30.388709 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:57:30.441908 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:57:35.512795 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:57:35.577693 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:57:35.636397 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:57:35.683079 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:57:35.734902 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:57:40.803153 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:57:40.884864 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:57:40.933650 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:57:40.983650 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:57:41.036849 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:57:46.113666 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:57:46.186547 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:57:46.231768 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:57:46.289825 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:57:46.342040 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:57:51.407090 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:57:51.478243 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:57:51.542660 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:57:51.589030 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:57:51.639671 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:57:51.688722 | PID: 1440 | Name: Python | Command: /opt/homebrew/Cellar/python@3.14/3.14.0_1/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python -c import time; print('keylogger test running'); time.sleep(30)
+2025-11-02 12:57:56.754575 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:57:56.829905 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:57:56.893539 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:57:56.942351 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:57:56.990144 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:57:57.040091 | PID: 1440 | Name: Python | Command: /opt/homebrew/Cellar/python@3.14/3.14.0_1/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python -c import time; print('keylogger test running'); time.sleep(30)
+2025-11-02 12:58:02.113691 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:58:02.182370 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:58:02.228376 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:58:02.295153 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:58:02.346761 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:58:02.403567 | PID: 1440 | Name: Python | Command: /opt/homebrew/Cellar/python@3.14/3.14.0_1/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python -c import time; print('keylogger test running'); time.sleep(30)
+2025-11-02 12:58:07.469597 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:58:07.540547 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:58:07.599184 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:58:07.646617 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:58:07.714919 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:58:07.773761 | PID: 1440 | Name: Python | Command: /opt/homebrew/Cellar/python@3.14/3.14.0_1/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python -c import time; print('keylogger test running'); time.sleep(30)
+2025-11-02 12:58:12.845515 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:58:12.927385 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:58:12.983785 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:58:13.047038 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:58:13.104165 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:58:13.152439 | PID: 1440 | Name: Python | Command: /opt/homebrew/Cellar/python@3.14/3.14.0_1/Frameworks/Python.framework/Versions/3.14/Resources/Python.app/Contents/MacOS/Python -c import time; print('keylogger test running'); time.sleep(30)
+2025-11-02 12:58:18.227020 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:58:18.310716 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:58:18.386637 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:58:18.440781 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:58:18.492738 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:58:23.563649 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:58:23.652378 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:58:23.702999 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:58:23.756455 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:58:23.808936 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:58:28.893853 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:58:28.990370 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:58:29.041359 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:58:29.089045 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:58:29.140971 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:58:34.216215 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:58:34.317297 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:58:34.366139 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:58:34.431006 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:58:34.494130 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:58:39.578692 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:58:39.676319 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:58:39.735728 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:58:39.786074 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:58:39.837365 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:58:44.929672 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:58:45.027600 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:58:45.085273 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:58:45.145457 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:58:45.208304 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:58:50.283674 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:58:50.373136 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:58:50.430366 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:58:50.486344 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:58:50.539108 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+2025-11-02 12:58:55.617796 | PID: 595 | Name: ContinuityCaptureAgent | Command: /usr/libexec/ContinuityCaptureAgent server
+2025-11-02 12:58:55.713062 | PID: 702 | Name: RecordWidgetExtension | Command: /System/Applications/VoiceMemos.app/Contents/PlugIns/RecordWidgetExtension.appex/Contents/MacOS/RecordWidgetExtension -LaunchArguments eyJ0eXBlIjoxLCJzZXJ2aWNlTmFtZSI6ImNvbS5hcHBsZS5Wb2ljZU1lbW9zLlJlY29yZFdpZGdldCIsImVuaGFuY2VkU2VjdXJpdHkiOmZhbHNlfQ==
+2025-11-02 12:58:55.775488 | PID: 713 | Name: chrome_crashpad_handler | Command: /Applications/Google Chrome.app/Contents/Frameworks/Google Chrome Framework.framework/Versions/141.0.7390.123/Helpers/chrome_crashpad_handler --monitor-self-annotation=ptype=crashpad-handler --database=/Users/vishnupu/Library/Application Support/Google/Chrome/Crashpad --url=https://clients2.google.com/cr/report --annotation=channel= --annotation=plat=OS X --annotation=prod=Chrome_Mac --annotation=ver=141.0.7390.123 --handshake-fd=5
+2025-11-02 12:58:55.836501 | PID: 772 | Name: icdd | Command: /System/Library/Image Capture/Support/icdd
+2025-11-02 12:58:55.888798 | PID: 978 | Name: keyboardservicesd | Command: /usr/libexec/keyboardservicesd
+[Sun Nov  2 13:03:03 2025] PID: 343, Name: keybagd, Command: N/A
+[Sun Nov  2 13:03:03 2025] PID: 525, Name: cameracaptured, Command: N/A
+[Sun Nov  2 13:03:03 2025] PID: 582, Name: applekeystored, Command: N/A
+[Sun Nov  2 13:03:03 2025] PID: 595, Name: ContinuityCaptureAgent, Command: /usr/libexec/ContinuityCaptureAgent server
+[Sun Nov  2 13:03:03 2025] PID: 778, Name: TextInputMenuAgent, Command: /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+[Sun Nov  2 13:03:03 2025] PID: 787, Name: TextInputSwitcher, Command: /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+[Sun Nov  2 13:03:03 2025] PID: 818, Name: ProtectedCloudKeySyncing, Command: /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+[Sun Nov  2 13:03:03 2025] PID: 877, Name: inputanalyticsd, Command: /usr/libexec/inputanalyticsd
+[Sun Nov  2 13:03:04 2025] PID: 930, Name: Keychain Circle Notification, Command: /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+[Sun Nov  2 13:03:09 2025] PID: 343, Name: keybagd, Command: N/A
+[Sun Nov  2 13:03:09 2025] PID: 525, Name: cameracaptured, Command: N/A
+[Sun Nov  2 13:03:09 2025] PID: 582, Name: applekeystored, Command: N/A
+[Sun Nov  2 13:03:09 2025] PID: 595, Name: ContinuityCaptureAgent, Command: /usr/libexec/ContinuityCaptureAgent server
+[Sun Nov  2 13:03:09 2025] PID: 778, Name: TextInputMenuAgent, Command: /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+[Sun Nov  2 13:03:09 2025] PID: 787, Name: TextInputSwitcher, Command: /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+[Sun Nov  2 13:03:09 2025] PID: 818, Name: ProtectedCloudKeySyncing, Command: /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+[Sun Nov  2 13:03:09 2025] PID: 877, Name: inputanalyticsd, Command: /usr/libexec/inputanalyticsd
+[Sun Nov  2 13:03:09 2025] PID: 930, Name: Keychain Circle Notification, Command: /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+[Sun Nov  2 13:03:14 2025] PID: 343, Name: keybagd, Command: N/A
+[Sun Nov  2 13:03:14 2025] PID: 525, Name: cameracaptured, Command: N/A
+[Sun Nov  2 13:03:14 2025] PID: 582, Name: applekeystored, Command: N/A
+[Sun Nov  2 13:03:14 2025] PID: 595, Name: ContinuityCaptureAgent, Command: /usr/libexec/ContinuityCaptureAgent server
+[Sun Nov  2 13:03:14 2025] PID: 778, Name: TextInputMenuAgent, Command: /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+[Sun Nov  2 13:03:14 2025] PID: 787, Name: TextInputSwitcher, Command: /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+[Sun Nov  2 13:03:14 2025] PID: 818, Name: ProtectedCloudKeySyncing, Command: /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+[Sun Nov  2 13:03:15 2025] PID: 877, Name: inputanalyticsd, Command: /usr/libexec/inputanalyticsd
+[Sun Nov  2 13:03:15 2025] PID: 930, Name: Keychain Circle Notification, Command: /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+[Sun Nov  2 13:03:20 2025] PID: 343, Name: keybagd, Command: N/A
+[Sun Nov  2 13:03:20 2025] PID: 525, Name: cameracaptured, Command: N/A
+[Sun Nov  2 13:03:20 2025] PID: 582, Name: applekeystored, Command: N/A
+[Sun Nov  2 13:03:20 2025] PID: 595, Name: ContinuityCaptureAgent, Command: /usr/libexec/ContinuityCaptureAgent server
+[Sun Nov  2 13:03:20 2025] PID: 778, Name: TextInputMenuAgent, Command: /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+[Sun Nov  2 13:03:20 2025] PID: 787, Name: TextInputSwitcher, Command: /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+[Sun Nov  2 13:03:20 2025] PID: 818, Name: ProtectedCloudKeySyncing, Command: /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+[Sun Nov  2 13:03:20 2025] PID: 877, Name: inputanalyticsd, Command: /usr/libexec/inputanalyticsd
+[Sun Nov  2 13:03:20 2025] PID: 930, Name: Keychain Circle Notification, Command: /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+[Sun Nov  2 13:03:25 2025] PID: 343, Name: keybagd, Command: N/A
+[Sun Nov  2 13:03:25 2025] PID: 525, Name: cameracaptured, Command: N/A
+[Sun Nov  2 13:03:25 2025] PID: 582, Name: applekeystored, Command: N/A
+[Sun Nov  2 13:03:25 2025] PID: 595, Name: ContinuityCaptureAgent, Command: /usr/libexec/ContinuityCaptureAgent server
+[Sun Nov  2 13:03:25 2025] PID: 778, Name: TextInputMenuAgent, Command: /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+[Sun Nov  2 13:03:25 2025] PID: 787, Name: TextInputSwitcher, Command: /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+[Sun Nov  2 13:03:25 2025] PID: 818, Name: ProtectedCloudKeySyncing, Command: /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+[Sun Nov  2 13:03:26 2025] PID: 877, Name: inputanalyticsd, Command: /usr/libexec/inputanalyticsd
+[Sun Nov  2 13:03:26 2025] PID: 930, Name: Keychain Circle Notification, Command: /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+[Sun Nov  2 13:03:31 2025] PID: 343, Name: keybagd, Command: N/A
+[Sun Nov  2 13:03:31 2025] PID: 525, Name: cameracaptured, Command: N/A
+[Sun Nov  2 13:03:31 2025] PID: 582, Name: applekeystored, Command: N/A
+[Sun Nov  2 13:03:31 2025] PID: 595, Name: ContinuityCaptureAgent, Command: /usr/libexec/ContinuityCaptureAgent server
+[Sun Nov  2 13:03:31 2025] PID: 778, Name: TextInputMenuAgent, Command: /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+[Sun Nov  2 13:03:31 2025] PID: 787, Name: TextInputSwitcher, Command: /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+[Sun Nov  2 13:03:31 2025] PID: 818, Name: ProtectedCloudKeySyncing, Command: /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+[Sun Nov  2 13:03:31 2025] PID: 877, Name: inputanalyticsd, Command: /usr/libexec/inputanalyticsd
+[Sun Nov  2 13:03:31 2025] PID: 930, Name: Keychain Circle Notification, Command: /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+[Sun Nov  2 13:03:36 2025] PID: 343, Name: keybagd, Command: N/A
+[Sun Nov  2 13:03:36 2025] PID: 525, Name: cameracaptured, Command: N/A
+[Sun Nov  2 13:03:36 2025] PID: 582, Name: applekeystored, Command: N/A
+[Sun Nov  2 13:03:36 2025] PID: 595, Name: ContinuityCaptureAgent, Command: /usr/libexec/ContinuityCaptureAgent server
+[Sun Nov  2 13:03:36 2025] PID: 778, Name: TextInputMenuAgent, Command: /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+[Sun Nov  2 13:03:36 2025] PID: 787, Name: TextInputSwitcher, Command: /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+[Sun Nov  2 13:03:37 2025] PID: 818, Name: ProtectedCloudKeySyncing, Command: /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+[Sun Nov  2 13:03:37 2025] PID: 877, Name: inputanalyticsd, Command: /usr/libexec/inputanalyticsd
+[Sun Nov  2 13:03:37 2025] PID: 930, Name: Keychain Circle Notification, Command: /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+[Sun Nov  2 13:03:42 2025] PID: 343, Name: keybagd, Command: N/A
+[Sun Nov  2 13:03:42 2025] PID: 525, Name: cameracaptured, Command: N/A
+[Sun Nov  2 13:03:42 2025] PID: 582, Name: applekeystored, Command: N/A
+[Sun Nov  2 13:03:42 2025] PID: 595, Name: ContinuityCaptureAgent, Command: /usr/libexec/ContinuityCaptureAgent server
+[Sun Nov  2 13:03:42 2025] PID: 778, Name: TextInputMenuAgent, Command: /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+[Sun Nov  2 13:03:42 2025] PID: 787, Name: TextInputSwitcher, Command: /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+[Sun Nov  2 13:03:42 2025] PID: 818, Name: ProtectedCloudKeySyncing, Command: /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+[Sun Nov  2 13:03:42 2025] PID: 877, Name: inputanalyticsd, Command: /usr/libexec/inputanalyticsd
+[Sun Nov  2 13:03:42 2025] PID: 930, Name: Keychain Circle Notification, Command: /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+[Sun Nov  2 13:06:28 2025] PID: 343, Name: keybagd, Command: N/A
+[Sun Nov  2 13:06:28 2025] PID: 525, Name: cameracaptured, Command: N/A
+[Sun Nov  2 13:06:28 2025] PID: 582, Name: applekeystored, Command: N/A
+[Sun Nov  2 13:06:29 2025] PID: 595, Name: ContinuityCaptureAgent, Command: /usr/libexec/ContinuityCaptureAgent server
+[Sun Nov  2 13:06:29 2025] PID: 778, Name: TextInputMenuAgent, Command: /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+[Sun Nov  2 13:06:29 2025] PID: 787, Name: TextInputSwitcher, Command: /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+[Sun Nov  2 13:06:29 2025] PID: 818, Name: ProtectedCloudKeySyncing, Command: /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+[Sun Nov  2 13:06:29 2025] PID: 877, Name: inputanalyticsd, Command: /usr/libexec/inputanalyticsd
+[Sun Nov  2 13:06:29 2025] PID: 930, Name: Keychain Circle Notification, Command: /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+[Sun Nov  2 13:19:28 2025] PID: 343, Name: keybagd, Command: N/A
+[Sun Nov  2 13:19:28 2025] PID: 525, Name: cameracaptured, Command: N/A
+[Sun Nov  2 13:19:28 2025] PID: 582, Name: applekeystored, Command: N/A
+[Sun Nov  2 13:19:28 2025] PID: 595, Name: ContinuityCaptureAgent, Command: /usr/libexec/ContinuityCaptureAgent server
+[Sun Nov  2 13:19:28 2025] PID: 778, Name: TextInputMenuAgent, Command: /System/Library/CoreServices/TextInputMenuAgent.app/Contents/MacOS/TextInputMenuAgent
+[Sun Nov  2 13:19:28 2025] PID: 787, Name: TextInputSwitcher, Command: /System/Library/CoreServices/TextInputSwitcher.app/Contents/MacOS/TextInputSwitcher
+[Sun Nov  2 13:19:28 2025] PID: 818, Name: ProtectedCloudKeySyncing, Command: /System/Library/PrivateFrameworks/ProtectedCloudStorage.framework/Helpers/ProtectedCloudKeySyncing
+[Sun Nov  2 13:19:28 2025] PID: 877, Name: inputanalyticsd, Command: /usr/libexec/inputanalyticsd
+[Sun Nov  2 13:19:28 2025] PID: 930, Name: Keychain Circle Notification, Command: /System/Library/CoreServices/Keychain Circle Notification.app/Contents/MacOS/Keychain Circle Notification
+{"timestamp": "2025-11-03 09:59:49", "cpu_percent": 12.2, "memory_percent": 52.9, "process_count": 564}
+{"timestamp": "2025-11-03 09:59:55", "cpu_percent": 2.3, "memory_percent": 52.5, "process_count": 563}
+{"timestamp": "2025-11-03 10:00:01", "cpu_percent": 3.1, "memory_percent": 53.0, "process_count": 563}
+{"timestamp": "2025-11-03 10:00:07", "cpu_percent": 4.6, "memory_percent": 52.9, "process_count": 563}
+{"timestamp": "2025-11-03 10:00:13", "cpu_percent": 5.7, "memory_percent": 53.6, "process_count": 565}
+{"timestamp": "2025-11-03 10:00:19", "cpu_percent": 5.0, "memory_percent": 54.0, "process_count": 566}
+{"timestamp": "2025-11-03 10:00:25", "cpu_percent": 6.7, "memory_percent": 53.3, "process_count": 567}
+{"timestamp": "2025-11-03 10:00:31", "cpu_percent": 5.9, "memory_percent": 53.7, "process_count": 568}
+{"timestamp": "2025-11-03 10:00:37", "cpu_percent": 4.7, "memory_percent": 53.4, "process_count": 565}
+{"timestamp": "2025-11-03 10:00:43", "cpu_percent": 5.4, "memory_percent": 52.9, "process_count": 567}
+{"timestamp": "2025-11-03 10:00:49", "cpu_percent": 2.3, "memory_percent": 52.9, "process_count": 566}
+{"timestamp": "2025-11-03 10:00:55", "cpu_percent": 0.5, "memory_percent": 52.5, "process_count": 567}
+{"timestamp": "2025-11-03 10:01:01", "cpu_percent": 0.4, "memory_percent": 52.3, "process_count": 567}
+{"timestamp": "2025-11-03 10:01:07", "cpu_percent": 0.9, "memory_percent": 52.6, "process_count": 567}
+{"timestamp": "2025-11-03 10:01:13", "cpu_percent": 0.8, "memory_percent": 52.7, "process_count": 567}
+{"timestamp": "2025-11-03 10:01:19", "cpu_percent": 0.8, "memory_percent": 52.5, "process_count": 567}
+{"timestamp": "2025-11-03 10:01:25", "cpu_percent": 0.5, "memory_percent": 52.5, "process_count": 565}
+{"timestamp": "2025-11-03 10:01:31", "cpu_percent": 0.6, "memory_percent": 52.4, "process_count": 564}
+{"timestamp": "2025-11-03 10:01:37", "cpu_percent": 0.7, "memory_percent": 52.5, "process_count": 563}
+{"timestamp": "2025-11-03 10:01:43", "cpu_percent": 1.5, "memory_percent": 52.5, "process_count": 563}
+{"timestamp": "2025-11-03 10:01:49", "cpu_percent": 0.4, "memory_percent": 52.3, "process_count": 563}
+{"timestamp": "2025-11-03 10:01:55", "cpu_percent": 0.8, "memory_percent": 52.7, "process_count": 569}
+{"timestamp": "2025-11-03 10:02:01", "cpu_percent": 1.4, "memory_percent": 52.4, "process_count": 567}
+{"timestamp": "2025-11-03 10:02:07", "cpu_percent": 0.9, "memory_percent": 52.7, "process_count": 567}
+{"timestamp": "2025-11-03 10:02:13", "cpu_percent": 1.1, "memory_percent": 52.5, "process_count": 566}
+{"timestamp": "2025-11-03 10:02:19", "cpu_percent": 0.6, "memory_percent": 52.5, "process_count": 565}
+{"timestamp": "2025-11-03 10:02:25", "cpu_percent": 0.4, "memory_percent": 52.6, "process_count": 565}
+{"timestamp": "2025-11-03 10:02:31", "cpu_percent": 0.3, "memory_percent": 52.6, "process_count": 565}
+{"timestamp": "2025-11-03 10:02:37", "cpu_percent": 1.3, "memory_percent": 52.5, "process_count": 564}
+{"timestamp": "2025-11-03 10:02:43", "cpu_percent": 2.0, "memory_percent": 52.8, "process_count": 560}
+{"timestamp": "2025-11-03 10:02:49", "cpu_percent": 0.6, "memory_percent": 52.7, "process_count": 561}
+{"timestamp": "2025-11-03 10:02:55", "cpu_percent": 1.5, "memory_percent": 52.4, "process_count": 560}
+{"timestamp": "2025-11-03 10:03:01", "cpu_percent": 9.0, "memory_percent": 53.3, "process_count": 560}
+{"timestamp": "2025-11-03 10:03:08", "cpu_percent": 7.6, "memory_percent": 53.9, "process_count": 560}
+{"timestamp": "2025-11-03 10:03:14", "cpu_percent": 3.6, "memory_percent": 53.4, "process_count": 561}
+{"timestamp": "2025-11-03 10:03:20", "cpu_percent": 3.5, "memory_percent": 53.3, "process_count": 561}
+{"timestamp": "2025-11-03 10:03:26", "cpu_percent": 0.7, "memory_percent": 53.3, "process_count": 562}
+{"timestamp": "2025-11-03 10:03:32", "cpu_percent": 13.5, "memory_percent": 53.0, "process_count": 561}
+{"timestamp": "2025-11-03 10:03:38", "cpu_percent": 2.2, "memory_percent": 53.3, "process_count": 561}
+{"timestamp": "2025-11-03 10:03:49", "cpu_percent": 1.4, "memory_percent": 53.5, "process_count": 565}
+{"timestamp": "2025-11-03 10:03:55", "cpu_percent": 6.9, "memory_percent": 54.0, "process_count": 565}
+{"timestamp": "2025-11-03 10:04:01", "cpu_percent": 8.8, "memory_percent": 53.7, "process_count": 565}
+{"timestamp": "2025-11-03 10:04:07", "cpu_percent": 5.1, "memory_percent": 54.2, "process_count": 565}
+{"timestamp": "2025-11-03 10:04:13", "cpu_percent": 0.5, "memory_percent": 53.2, "process_count": 565}
+{"timestamp": "2025-11-03 10:04:19", "cpu_percent": 0.8, "memory_percent": 52.9, "process_count": 564}
+{"timestamp": "2025-11-03 10:04:25", "cpu_percent": 1.7, "memory_percent": 52.8, "process_count": 564}
+{"timestamp": "2025-11-03 10:04:31", "cpu_percent": 3.0, "memory_percent": 53.5, "process_count": 564}
+{"timestamp": "2025-11-03 10:04:37", "cpu_percent": 1.2, "memory_percent": 53.7, "process_count": 564}
+{"timestamp": "2025-11-03 10:04:43", "cpu_percent": 5.9, "memory_percent": 54.7, "process_count": 564}
+{"timestamp": "2025-11-03 10:04:49", "cpu_percent": 1.4, "memory_percent": 53.0, "process_count": 564}
+{"timestamp": "2025-11-03 10:04:55", "cpu_percent": 0.6, "memory_percent": 52.8, "process_count": 564}
+{"timestamp": "2025-11-03 10:05:01", "cpu_percent": 2.7, "memory_percent": 53.6, "process_count": 564}
+{"timestamp": "2025-11-03 10:05:07", "cpu_percent": 2.4, "memory_percent": 53.3, "process_count": 565}
+{"timestamp": "2025-11-03 10:05:13", "cpu_percent": 2.2, "memory_percent": 53.7, "process_count": 565}
+{"timestamp": "2025-11-03 10:05:19", "cpu_percent": 1.5, "memory_percent": 53.3, "process_count": 562}
+{"timestamp": "2025-11-03 10:05:25", "cpu_percent": 1.1, "memory_percent": 52.6, "process_count": 563}
+{"timestamp": "2025-11-03 10:05:31", "cpu_percent": 0.4, "memory_percent": 52.6, "process_count": 563}
+{"timestamp": "2025-11-03 10:05:37", "cpu_percent": 2.1, "memory_percent": 52.4, "process_count": 563}
+{"timestamp": "2025-11-03 10:05:43", "cpu_percent": 0.8, "memory_percent": 52.4, "process_count": 563}
+{"timestamp": "2025-11-03 10:05:49", "cpu_percent": 1.5, "memory_percent": 52.8, "process_count": 562}
+{"timestamp": "2025-11-03 10:05:55", "cpu_percent": 2.1, "memory_percent": 52.6, "process_count": 562}
+{"timestamp": "2025-11-03 10:06:01", "cpu_percent": 6.6, "memory_percent": 54.8, "process_count": 568}
+{"timestamp": "2025-11-03 10:06:07", "cpu_percent": 8.2, "memory_percent": 54.7, "process_count": 565}
+{"timestamp": "2025-11-03 10:06:13", "cpu_percent": 6.4, "memory_percent": 54.8, "process_count": 565}
+{"timestamp": "2025-11-03 10:06:19", "cpu_percent": 4.0, "memory_percent": 53.9, "process_count": 565}
+{"timestamp": "2025-11-03 10:06:35", "cpu_percent": 2.9, "memory_percent": 54.0, "process_count": 567}
+{"timestamp": "2025-11-03 10:06:41", "cpu_percent": 1.2, "memory_percent": 53.7, "process_count": 567}
+{"timestamp": "2025-11-03 10:06:47", "cpu_percent": 0.9, "memory_percent": 53.6, "process_count": 567}
+{"timestamp": "2025-11-03 10:06:53", "cpu_percent": 1.8, "memory_percent": 54.0, "process_count": 567}
+{"timestamp": "2025-11-03 10:06:59", "cpu_percent": 5.7, "memory_percent": 54.9, "process_count": 566}
+{"timestamp": "2025-11-03 10:07:05", "cpu_percent": 2.6, "memory_percent": 54.5, "process_count": 564}
+{"timestamp": "2025-11-03 10:07:11", "cpu_percent": 2.4, "memory_percent": 54.2, "process_count": 564}
+{"timestamp": "2025-11-03 10:07:17", "cpu_percent": 1.0, "memory_percent": 54.1, "process_count": 562}
+{"timestamp": "2025-11-03 10:07:23", "cpu_percent": 1.1, "memory_percent": 54.3, "process_count": 562}
+{"timestamp": "2025-11-03 10:07:29", "cpu_percent": 6.2, "memory_percent": 54.6, "process_count": 563}
+{"timestamp": "2025-11-03 10:07:35", "cpu_percent": 8.3, "memory_percent": 54.4, "process_count": 563}
+{"timestamp": "2025-11-03 10:07:41", "cpu_percent": 2.5, "memory_percent": 54.4, "process_count": 563}
+{"timestamp": "2025-11-03 10:07:47", "cpu_percent": 6.5, "memory_percent": 56.1, "process_count": 591}
+{"timestamp": "2025-11-03 10:07:53", "cpu_percent": 3.5, "memory_percent": 56.2, "process_count": 591}
+{"timestamp": "2025-11-03 10:07:59", "cpu_percent": 2.9, "memory_percent": 56.2, "process_count": 591}
+{"timestamp": "2025-11-03 10:08:05", "cpu_percent": 4.4, "memory_percent": 55.6, "process_count": 591}
+{"timestamp": "2025-11-03 10:08:11", "cpu_percent": 2.9, "memory_percent": 55.5, "process_count": 590}
+{"timestamp": "2025-11-03 10:08:17", "cpu_percent": 0.6, "memory_percent": 55.0, "process_count": 590}
+{"timestamp": "2025-11-03 10:08:23", "cpu_percent": 1.2, "memory_percent": 54.9, "process_count": 590}
+{"timestamp": "2025-11-03 10:08:29", "cpu_percent": 1.3, "memory_percent": 55.1, "process_count": 590}
+{"timestamp": "2025-11-03 10:08:35", "cpu_percent": 0.9, "memory_percent": 54.9, "process_count": 590}
+{"timestamp": "2025-11-03 10:08:41", "cpu_percent": 3.5, "memory_percent": 55.7, "process_count": 590}
+{"timestamp": "2025-11-03 10:08:47", "cpu_percent": 1.2, "memory_percent": 55.2, "process_count": 589}
+{"timestamp": "2025-11-03 10:08:53", "cpu_percent": 1.2, "memory_percent": 55.3, "process_count": 589}
